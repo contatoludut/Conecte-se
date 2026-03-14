@@ -1,0 +1,97 @@
+<section class="connect-ludut">
+  <div class="connect-logo-wrap">
+    <img
+      src="data:image/webp;base64,UklGRu4aAABXRUJQVlA4IOIaAADQgwCdASqQAZABPlEikEajoaGhoXCZ6HAKCWlu6/+FsZP601psCbnhMTeemcy9cO3L/BdJ76U9tub11z5l/yn7Sflf8D+4fs7/qPA34n/5v5QfAX+T/1D/MflH+aPub7PzWf9j/sfUF9mPpP+P/sP7n/3b4hPl/8H6C/Xr/Te4D/Pv6v/ovzJ9arw0aAH8y/mv+e/un5h/Hj/u/5D8wfdP9Ef+X/L/An/M/7b/wP8J2kf29///ux/sT/9hnrZrQw9uigiDwF2Dq9JfM5iBt1zAfPS7U9B6j4D/tMaZ5Gdl3oCF6bCDsu6og4m3PCcm58YDp/vQ4m0CSCI0Vxo0IyjeqPukb/+651abth/79+52xAeF7nJbdVkLP3/33n4rlL2VPftDQKS7xyg002SMAROlx6qpE/Yvph4sveMqFCnBCXnrHqsPPT2IPARbqjjPgtJUYbQHoYWp6Tph4aPUe1X/+XEUOWp9rRVGAcnZBhkuwA/KZl7PSPbuqF66wc0z6t0kaCqrfiT9INwe1IA5/eiO//HGf1LltCpFvW89oMc3Rm647Ljm6KjswrIsg1e+X/aOw/seZekEe+L/1i4obDaonG4/qVfifmnEqmeD9X499ykm7B2PB1WE+8PC3N2vJ6KtvW+E/7q6xIzRBPZ562GfFfMN6vZapA9IPtUy/ZTXh3r6aJ47c4UBekepUCIXsR2FbOs52npyqKopT+y6kIyDwsD32N8/UuJLmdcYv+4RcE0DDn+t+9Ye+yHa+fdpt4NumuS0+tnTNQ26jecPIn+wkdR1POcdz1vyuKV369TxVKZ8yUaNxFbhBXeSnYct8/nw58aXOprgtbRcDR9wIZPF8qOQLiGOvIbLyKV9b+rZooJsvYpxkgWyqGFU+kwWpSpb69+lA1ZfHXjs6ap69sxAV5Zvr0yE7dsVo5y/ZcpqitogG/yd2xSzm6E0dn7QzPcJjKuM4t9xbImGZxDU+9+06iSA1EUMZefs7UMmDPvwZg4Am/pABk31bV34pXrCEm576kekBxL7MoCRJ3bmyvjI24IlnUvr0sYu11MpMYVPQMPM+f61smUpmMFV4saWRX2Hin/XMYUEqhblVsBVz6vrY8qvKAN2cIGNSGRBry54HapETPipaK+cGrquXgfUnf+moSiZ0Rc9Bfob+C5Iv+gTnIPv0zwWJRV7D3aHIofcu4yi/7eePrmlxvQVP8pxu4WL+MNWw0u1JNL8TO5XidYrMhOiE/lmFYfABpPw5tXDHKWLt1vH7Cu3aBLpS67T5O28ll5MavNGfTU24N5MZfbDnji5G/Lhavw4rej4Nfl1575QiVfd5n0MX1TAwDC3gFnPM5Wae+Ebxkw0gAvUIFEhrPOkPErdNbckQArmvJwSmcZqbooZ/zermi7QagjWhXWYRMgtLbrgAP78a/QnkEKLBvNTQjSsyO2ZmHSiKA4qh3m+YL+5slmCMCY2E18lDrNs0js1srPkH7WqTM5x3aOpWJgeaUFS3Psx9yn1xdN06Krng0Mr97/MwVPNOjuX5zXZPvpmYDByc9rnVo4qji6HVJwBeqzd6JxQP7kscHr/IxbOviJ+DQPnmQYOPD8q758Oau4C/d4Q4+sw2bKaMpCaYX4neMh35CufppfIwX+7vxypQYABnm7O2q9eAywHxh72p2X7AfSCFFHKUv5lAEBvRWk9YNS3J2K180KVtHXyRYSwTlepJQwrtBNSrdmSndYSnKxdzUtah48MuQXXbTbNp5ZVPA57zDU/PB6n2VKezv7elPAngQDKbky1arUlOKo1ZBd4u96U/36+7j8RsWz6542jxOPNg3g+umw+SIHYmhX+C0Pvq+qgaxiuAgua1PUjrWO2cyMmtVfWvwud21kXlC77ZS5MZHQxsJPLPr+Y9QzOit0s9JyL+gbFSjVDq1agN2FpHRz5zvMkxgs1LnEbKphgXo8kS2Mbwrwi6oqq+4zy3qk6457Qp4GGYw/51jM0b8Il09c9WH73Rc/aqm+yizGLI4M0UEn8a0kw8Wv3jE+ZSqJFB+QbTmzHa6DmgIrwIjfYqLliOqy4WSOol9rUkbLK6aQ5Sv2xGUVvPj3r0ZlTt4XsuITm8l/e1ynQLxa17MtrG3pq2+cl07L+yMcvPRj4QWz4FmXu0U8QbTVw3S7slHQqPoxsVJrXw0D8mep30/9+T7d+QadO7RYqpkm3b0I9x+c2K9b1fA0gpB/KfXb1gFD96Sn7S4y5St0uwjc8ijO5o2Q5UWX9D1LruDUUj6Ew8psjv2O5Mi7AU5dQfAp7+Fl68I5IfH6qJrri1cE1uM3mLGZiqJcI2Gc9hN88c5Jk6LJpL0UkQww4uv5wQ8VAGHsAJ2sYB5mMqcrN5eF/7NfO6Ec8aaX2cbbS7l3mFTcIUx4K8ii/XrQ2TtA8C4L1hdn7gFq5jv0f4nS6pfmR7+ttt1X7wqvX1v8YCH5fI48cc9Hthm4gQ5lAfaoXh8k+M8fJ8J3rR0uYrdS4zM5Rho+Nn5KxFwYEb9BrXxTaVC4rv+S+xRkqXx3eZ9J7j+6ZVjQaQz8cZFs6lX7TgD+7ewF2NOrj1/4qg5ebJ9jc+6OP5Vz5dKNZK4TY83mbyKcfF0Q0g2uUjVeSb6o5LFv9XU2x3x7I2V9E+M4vdqvTvR4hKedGcY/kBPKzT3l9g6aJw8acLh0w2XKgq4pG0g4VW0bf2T/YroYIQ3KULM2Ll+3X0wvR1ITfUD9FE5JxC9+P9o7w/tsEF89Yj3FJrgtxna6yIu7yhviyXBcx2v0DgWklnjM7DXo5swvB1/CG7X6I1jM7Fq8cPO0h5W/8p3X3p3H9P5h9Qe+jl4kKZfWvNQomV7NO0bUL7+g1W7y2FNYzRz4lEfJ0iWqVPxsuPMH4i4fWhV+OwGH4u8k5IKzNh7G/tzN4q0Pk8mVQ8HK0Hz9jTL3DpxJROHjhf0Jx86WIkA5SCv3qVBs3b6VOZsS6cBzvPpu4g6qD7Y7qv9l3Xl1S6+YvStm/O0bLcycE+5Yg0e9J7HMrEm1v+4dJH4n6zkJQy4yBfQwsvEjiW+88JxtWZr3bFwLhAARl5z1SPK11VQW1xaq8eLoC8pI2cHB0cG+0Z9smyd5S9hP8e1i53v6T8cT8t4XWbmmhX3B3bY7f+yRxxzT6ThfSICM7o+T30r47kqFsoTa6W2VtM4gJQ5q7W9MYhKshPZsV6x9kH9qjQj8YzzY7rFQdM+6B3o3j8g3eZp2oJ5qv3yXrZyx4l+1k4on2wQb3Npn+1U+0jPzB/2Sm9QX0sZTF8w1M8lywG9IP+9aQnoKQFRDq6X9cY8uEVYYJ17M7U2Q7B9+EnjpxQ1U8qv8M6WJ3b3Bg3w3FUd1kLrqbbPeUjlfvB4mBGLjXv9iX86m4xwM1N1hM0qA1l6uD0nLejK8Z3k1Vwdjfzrf0uzYqfV6ypsr4o7c0p7dB5W06BvW4G9X6t8b4q8OSiAkM8jKn2h4j0to8mI4PqfRrPqkD0lAD3Q0AA"
+      alt="Logo LUDUT"
+      class="connect-logo"
+    />
+  </div>
+
+  <h2>Conecte-se com a LUDUT</h2>
+  <p>Utilize nossos canais digitais abaixo</p>
+
+  <div class="connect-buttons">
+    <a href="https://wa.me/5581991690494" class="connect-btn" target="_blank" rel="noopener noreferrer">WhatsApp Loja Física</a>
+    <a href="https://www.google.com/maps/place/LUDUT/@-8.1197627,-35.2990657,17z/data=!3m1!4b1!4m6!3m5!1s0x7aa54a5cd96cff7:0xa4d452c85e18e630!8m2!3d-8.119768!4d-35.2964908!16s%2Fg%2F11vhqfc9c5?entry=ttu&g_ep=EgoyMDI2MDMxMS4wIKXMDSoASAFQAw%3D%3D" class="connect-btn" target="_blank" rel="noopener noreferrer">Localize nossa loja</a>
+    <a href="#" class="connect-btn">Grupo exclusivo no WhatsApp 🔐</a>
+  </div>
+</section>
+
+<style>
+  .connect-ludut{
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 40px 15px;
+    text-align: center;
+  }
+
+  .connect-logo-wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 22px;
+  }
+
+  .connect-logo{
+    width: 100%;
+    max-width: 220px;
+    height: auto;
+    display: block;
+    border-radius: 18px;
+  }
+
+  .connect-ludut h2{
+    font-size: 28px;
+    font-weight: 800;
+    margin-bottom: 10px;
+  }
+
+  .connect-ludut p{
+    font-size: 15px;
+    color: #444;
+    margin-bottom: 30px;
+  }
+
+  .connect-buttons{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .connect-btn{
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+    padding: 16px 20px;
+    border-radius: 40px;
+    font-size: 15px;
+    font-weight: 600;
+    transition: all 0.2s ease;
+    display: block;
+  }
+
+  .connect-btn:hover{
+    background: #222;
+    transform: translateY(-2px);
+  }
+
+  @media (max-width: 768px){
+    .connect-ludut{
+      padding: 30px 15px;
+    }
+
+    .connect-logo{
+      max-width: 170px;
+      border-radius: 14px;
+    }
+
+    .connect-ludut h2{
+      font-size: 24px;
+    }
+
+    .connect-btn{
+      font-size: 14px;
+      padding: 15px;
+    }
+  }
+</style>
