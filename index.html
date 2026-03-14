@@ -49,13 +49,10 @@
 <style>
   .connect-ludut{
     width: 100%;
-    min-height: 100dvh;
-    padding: 32px 20px;
+    padding: 40px 20px;
+    box-sizing: border-box;
     display: flex;
     justify-content: center;
-    align-items: flex-start;
-    box-sizing: border-box;
-    background: #f5f5f5;
   }
 
   .connect-card{
@@ -73,7 +70,6 @@
   .connect-logo-wrap{
     display: flex;
     justify-content: center;
-    align-items: center;
     margin-bottom: 24px;
   }
 
@@ -165,40 +161,27 @@
     line-height: 1.2;
   }
 
-  .connect-btn:hover{
-    transform: translateY(-2px);
-  }
-
-  .whatsapp-btn:hover,
-  .location-btn:hover{
-    background: linear-gradient(180deg, #1d1d1d 0%, #050505 100%);
-    box-shadow: 0 14px 28px rgba(0,0,0,0.14);
-  }
-
-  .vip-btn:hover{
-    background: linear-gradient(180deg, #9a7732 0%, #d7a743 100%);
-    box-shadow: 0 14px 30px rgba(199,154,59,0.34);
-  }
-
   @media (max-width: 768px){
     .connect-ludut{
-      min-height: 100dvh;
-      padding: 0;
-      background: #ffffff;
-      align-items: flex-start;
+      width: 100vw !important;
+      max-width: 100vw !important;
+      margin-left: calc(50% - 50vw) !important;
+      margin-right: calc(50% - 50vw) !important;
+      padding: 0 !important;
+      display: block !important;
+      box-sizing: border-box !important;
     }
 
     .connect-card{
-      width: 100%;
-      max-width: 100%;
+      width: 100vw !important;
+      max-width: 100vw !important;
       min-height: 100dvh;
-      padding: 28px 16px 32px;
-      border-radius: 0;
-      border: none;
-      box-shadow: none;
-      display: flex;
-      flex-direction: column;
-      justify-content: flex-start;
+      margin: 0 !important;
+      padding: 28px 16px 32px !important;
+      border-radius: 0 !important;
+      border: none !important;
+      box-shadow: none !important;
+      box-sizing: border-box !important;
     }
 
     .connect-logo-wrap{
@@ -221,35 +204,30 @@
       font-size: 15px;
       line-height: 1.5;
       margin-bottom: 26px;
-      padding: 0 8px;
+      padding: 0 4px;
     }
 
     .connect-buttons{
-      width: 100%;
+      width: 100% !important;
+      align-items: stretch !important;
       gap: 14px;
-      align-items: stretch;
-      margin-top: 4px;
     }
 
     .connect-btn{
-      width: 100%;
-      max-width: 100%;
-      padding: 18px 18px;
+      width: 100% !important;
+      max-width: 100% !important;
+      padding: 18px 18px !important;
       font-size: 16px;
+      min-height: 58px;
       gap: 13px;
       border-radius: 999px;
-      min-height: 58px;
+      box-sizing: border-box !important;
     }
 
     .btn-icon{
       width: 36px;
       min-width: 36px;
       height: 36px;
-    }
-
-    .btn-icon svg{
-      width: 17px;
-      height: 17px;
     }
 
     .btn-text{
